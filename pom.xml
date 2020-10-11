@@ -42,6 +42,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:morodev/morodev-pet-clinic.git</developerConnection>
+      <tag>morodev-pet-clinic-0.0.2</tag>
   </scm>
 
 </project>
