@@ -1,4 +1,4 @@
-package guru.springframework.morodevpetclinic;
+package morodevpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
