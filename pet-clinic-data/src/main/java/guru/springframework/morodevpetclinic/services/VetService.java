@@ -2,13 +2,10 @@ package guru.springframework.morodevpetclinic.services;
 
 import guru.springframework.morodevpetclinic.model.Vet;
 
-import java.util.Set;
+/**
+ * Created by Luca Moro
+ */
+public interface VetService extends CrudService<Vet, Long> {
 
-public interface VetService {
-
-    Vet findById(Long id);
-
-    Vet save(Vet vet);
-
-    Set<Vet> findAll();
 }
+
