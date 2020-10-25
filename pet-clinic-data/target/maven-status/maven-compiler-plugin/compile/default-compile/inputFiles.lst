@@ -1,5 +1,14 @@
 C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\model\Vet.java
-C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\model\Person.java
-C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\model\Owner.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\services\OwnerService.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\services\map\OwnerServiceMap.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\services\map\AbstractMapService.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\services\map\PetServiceMap.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\services\PetService.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\model\BaseEntity.java
 C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\model\Pet.java
 C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\model\PetType.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\model\Person.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\services\map\VetServiceMap.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\model\Owner.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\services\VetService.java
+C:\Users\Morewski\Documents\SPRING FRAMEWORK COURSE\morodev-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\morodevpetclinic\services\CrudService.java

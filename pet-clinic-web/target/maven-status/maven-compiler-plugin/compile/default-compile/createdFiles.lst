@@ -1,1 +1,5 @@
+guru\springframework\morodevpetclinic\controllers\OwnerController.class
+guru\springframework\morodevpetclinic\controllers\IndexController.class
+guru\springframework\morodevpetclinic\bootstrap\DataLoader.class
 guru\springframework\morodevpetclinic\MorodevPetClinicApplication.class
+guru\springframework\morodevpetclinic\controllers\VetController.class
