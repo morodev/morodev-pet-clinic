@@ -58,7 +58,9 @@
             <span>Home</span>
           </li>
 
-          <li th:replace="::menuItem ('/owners/find','owners','find owners','search','Find owners')">
+<!--        replace /owners/find with /owners -->
+
+          <li th:replace="::menuItem ('/owners','owners','find owners','search','Find owners')">
             <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
             <span>Find owners</span>
           </li>
