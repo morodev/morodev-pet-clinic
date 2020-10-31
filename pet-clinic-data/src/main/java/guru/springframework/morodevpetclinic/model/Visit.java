@@ -1,7 +1,17 @@
 package guru.springframework.morodevpetclinic.model;
 
+import lombok.*;
+
 import java.time.LocalDate;
 
+/**
+ *  Created By Luca Moro
+ */
+@Setter
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
 public class Visit extends BaseEntity {
 
     private LocalDate date;
